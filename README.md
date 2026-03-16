@@ -34,9 +34,9 @@ looking_for: Software Engineering Internship 2026
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Senuda%20Kenula%20Weliwatta&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Software%20Engineering%20Enthusiast&descAlignY=55&descSize=18" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,python,java,flutter,dart" /><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgresql,sqlite,docker,spring,git,github,vscode" />
 </p>
-
 
 ---
 
